@@ -8,7 +8,7 @@ sudo apt install wine
  ```
  ### Installation and Setup
 1. Download MobaXterm:
-Go to the MobaXterm website and download the Windows installer (MobaXterm_Portable_vxx.xx.zip).
+Go to the MobaXterm website and download the Windows installer [MobaXterm_Portable_vxx.xx.zip](https://download.mobatek.net/2402024022512842/MobaXterm_Portable_v24.0.zip).
 
 2. Extract MobaXterm:
 Extract the downloaded ZIP file to a convenient location. 
